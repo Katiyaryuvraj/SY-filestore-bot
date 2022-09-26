@@ -38,7 +38,7 @@ NOTE: full source code is written by Abir hasan, i just changed some codes and m
 	-  to set your group in start button.
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fwww.youtube.com%2F&template=https%3A%2F%2Fgithub.com%2FKatiyaryuvraj%2FSY-filestore-bot)
 
 ## Commands:
 ```
